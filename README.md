@@ -1,3 +1,1 @@
-# Orijecte powershell
-# ProjectePowerShell
 # ProjectePowerShell
